@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm -r build",
+  "outputDirectory": "ui/dist",
+  "framework": "vite"
+}
